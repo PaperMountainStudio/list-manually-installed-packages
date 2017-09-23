@@ -1,3 +1,4 @@
+#!/bin/bash
 location="~/installedPackages.txt"
 location_temp="$location.bak"
 
